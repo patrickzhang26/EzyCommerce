@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_acc"
+        android:icon="@drawable/ic_baseline_acc"
+        android:title="@string/accessories" />
+    <item
+        android:id="@+id/nav_bus"
+        android:icon="@drawable/ic_baseline_business"
+        android:title="@string/business" />
+    <item
+        android:id="@+id/nav_cook"
+        android:icon="@drawable/ic_baseline_cook"
+        android:title="@string/cook" />
+    <item
+        android:id="@+id/nav_mys"
+        android:icon="@drawable/ic_baseline_mystery"
+        android:title="@string/mystery" />
+    <item
+        android:id="@+id/nav_sci"
+        android:icon="@drawable/ic_baseline_scifi"
+        android:title="@string/scifi" />
+
+</menu>

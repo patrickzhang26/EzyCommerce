@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EzyCommerce</string>
+    <string name="accessories">Accessories</string>
+    <string name="business">Business</string>
+    <string name="mystery">Mystery</string>
+    <string name="cook">Cook</string>
+    <string name="scifi">Scifi</string>
+    <string name="must_implement_on_fragment_interaction_listener">must implement OnFragmentInteractionListener</string>
+    <string name="ezycommerce">EzyCommerce</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="buy">BUY</string>
+    <string name="cancel">Cancel</string>
+    <string name="next">Next</string>
+    <string name="total">TOTAL</string>
+    <string name="taxes">Taxes</string>
+    <string name="free">FREE</string>
+    <string name="shipping">Shipping</string>
+    <string name="subtotal">SubTotal</string>
+    <string name="shopping_cart">Shopping Cart</string>
+    <string name="pcs">pcs</string>
+    <string name="thank_you_for_buying">Thank You for Buying</string>
+</resources>
